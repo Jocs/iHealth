@@ -7,6 +7,13 @@ This is a fork of https://github.com/yihong0618/iBeats
 ![](./files/heart.svg)
 
 <!--START_SECTION:my_heart_rate-->
+| Time | Rate | 
+ | ---- | ---- | 
+| 2025年11月19日 00:20 | 84 |
+| 2025年11月19日 00:18 | 85 |
+| 2025年11月19日 00:16 | 78 |
+| 2025年11月19日 00:14 | 84 |
+| 2025年11月19日 00:12 | 81 |
 
 <!--END_SECTION:my_heart_rate-->
 
